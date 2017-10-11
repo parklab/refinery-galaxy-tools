@@ -1,0 +1,3 @@
+[submodule "split-paired-collection"]
+	path = split-paired-collection
+	url = https://github.com/scottx611x/split-paired-collection
